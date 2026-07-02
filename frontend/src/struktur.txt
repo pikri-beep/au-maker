@@ -1,0 +1,87 @@
+Folder PATH listing for volume DATA
+Volume serial number is 000000C8 38E3:6589
+D:.
+|   App.tsx
+|   main.tsx
+|   New Text Document.bat
+|   struktur.txt
+|   
++---assets
+|   +---icons
+|   +---images
+|   \---logos
++---components
+|   +---common
+|   +---editor
+|   +---layout
+|   |       Header.tsx
+|   |       PropertiesPanel.tsx
+|   |       Sidebar.tsx
+|   |       Workspace.tsx
+|   |       
+|   +---modals
+|   |       NewProjectModal.tsx
+|   |       
+|   \---ui
+|       +---EmptyState
+|       |       EmptyState.css
+|       |       EmptyState.tsx
+|       |       
+|       \---Panel
+|               Panel.css
+|               Panel.tsx
+|               
++---features
+|   +---characters
+|   |   \---pages
+|   |           Characters.tsx
+|   |           
+|   +---dashboard
+|   |   +---components
+|   |   |       DashboardHeader.tsx
+|   |   |       RecentProjects.tsx
+|   |   |       StatCard.tsx
+|   |   |       
+|   |   \---pages
+|   |           Dashboard.tsx
+|   |           
+|   +---projects
+|   |   +---components
+|   |   |       ProjectCard.tsx
+|   |   |       ProjectGrid.tsx
+|   |   |       ProjectToolbar.tsx
+|   |   |       
+|   |   +---data
+|   |   |       dummyProjects.ts
+|   |   |       
+|   |   \---pages
+|   |           Projects.tsx
+|   |           
+|   +---settings
+|   |   \---pages
+|   |           Settings.tsx
+|   |           
+|   \---templates
+|       \---pages
+|               Templates.tsx
+|               
++---layouts
+|       MainLayout.tsx
+|       
++---pages
+|       Dashboard.tsx
+|       Projects.tsx
+|       
++---router
+|       AppRouter.tsx
+|       
++---routes
++---services
++---styles
+|       global.css
+|       reset.css
+|       typography.css
+|       variables.css
+|       
++---types
+\---utils
